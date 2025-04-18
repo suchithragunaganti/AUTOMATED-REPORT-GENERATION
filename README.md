@@ -14,6 +14,12 @@ Mentor: Neela Santhosh Kumar
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/af953336-3d91-44a3-b2fd-d6aca2e550ea)
+
+[data.csv](https://github.com/user-attachments/files/19811818/data.csv)
+
+[report.pdf](https://github.com/user-attachments/files/19811819/report.pdf)
+
 
 
 Automated Report Generation System
